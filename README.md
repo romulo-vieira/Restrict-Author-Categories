@@ -1,2 +1,5 @@
 # Restrict-Author-Categories
-My first WordPress plugin. It simples restricts which categories the users can post on.
+A simple Wordpress plugin that allows Admins to restrict categories a user can post on.
+
+This plugin was made with PHP and ReactJS.
+
