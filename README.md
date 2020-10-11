@@ -9,7 +9,7 @@ This plugin was made with <strong>PHP, MySQL and ReactJS</strong>.
 
 <i>This is my first WP plugin. I've made it so i could learn how to make one and also to help at work. You can use, modify and extend it as you wish.</i>
 
-## Screenshots
+## 📸 Screenshots
 <h5 align="center"> <img alt="Admin Page" src=".github/screenshot-1.png" /> </h5>
 <h4 align="center">Restrict a user's categories...</h4>
 <br>
@@ -19,7 +19,7 @@ This plugin was made with <strong>PHP, MySQL and ReactJS</strong>.
 <h5 align="center"> <img alt="Classic Editor" src=".github/screenshot-3.png" /> </h5>
 <h4 align="center">...it also works at the Classic Editor.</h4>
 
-## Installation
+## 💾 Installation
 
 <i>Before installing the plugin, you'll need to have a WP local server. If you don't have any yet, you can use <a href="https://localwp.com/">Local by Flywheel</a></i>
 
@@ -40,7 +40,7 @@ While on the development environment, you'll need to config your <strong>WP REST
 
 Now you only need to run the command <i><strong>npm run start</strong></i> on the <strong>reactjs</strong> dir to start the React Live Server, and start developing.
 
-## Technologies Involved
+## 🚀 Technologies Involved
 
 - PHP
 - MySQL
