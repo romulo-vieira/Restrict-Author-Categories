@@ -10,20 +10,14 @@ This plugin was made with <strong>PHP, MySQL and ReactJS</strong>.
 <i>This is my first WP plugin. I've made it so i could learn how to make one and also to help at work. You can use, modify and extend it as you wish.</i>
 
 ## Screenshots
-<h1 align="center">
-    <img width='70%' alt="Admin Page" src=".github/screenshot-1.png" />
-</h1>
-<h5 align="center">Restrict a user's categories...</h5>
+<h5 align="center"> <img width='75%' alt="Admin Page" src=".github/screenshot-1.png" /> </h5>
+<h4 align="center">Restrict a user's categories...</h4>
 
-<h1 align="center">
-    <img alt="Block Editor" src=".github/screenshot-2.png" />
-</h1>
-<h5 align="center">...now they can select only the allowed categories...</h5>
+<h5 align="center"> <img width='75%' alt="Block Editor" src=".github/screenshot-2.png" /> </h5>
+<h4 align="center">...now they can select only the allowed categories...</h4>
 
-<h1 align="center">
-    <img alt="Classic Editor" src=".github/screenshot-3.png" />
-</h1>
-<h5 align="center">...it also works at the Classic Editor.</h5>
+<h5 align="center"> <img width='75%' alt="Classic Editor" src=".github/screenshot-3.png" /> </h5>
+<h4 align="center">...it also works at the Classic Editor.</h4>
 
 ## Installation
 
