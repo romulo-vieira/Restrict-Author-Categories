@@ -1,0 +1,11 @@
+#toplevel_page_resautcat-admin-page {
+    position: relative;
+}
+
+#toplevel_page_resautcat-admin-page div.wp-menu-image > img {
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}

@@ -1,0 +1,7 @@
+#resautcat-page-admin .resautcat-type-container {
+    max-height: calc(100vh - 170px);
+}
+
+#resautcat-page-admin {
+    margin-top: 50px;
+}
